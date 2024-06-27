@@ -96,4 +96,4 @@ spec:
         pathType: Prefix
 
 
-# kubectl port-forward svc/kubenews -n default 30868:8080
+# kubectl port-forward svc/kubenews -n default 8080:80
